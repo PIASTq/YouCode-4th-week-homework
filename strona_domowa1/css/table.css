@@ -1,0 +1,44 @@
+.main__table
+{
+    border-collapse: collapse;
+    margin: 10px;
+    background: #eee;
+}
+
+.table-item
+{
+    border: 1px solid rgb(32, 32, 32);
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.th
+{
+    font-size: 110%;
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: white;
+    background-color: crimson;
+}
+
+.tableRow:nth-child(even)
+{
+    background: #ddd;
+}
+
+.main__table-caption
+{
+    caption-side: bottom;
+    text-align: right;
+}
+
+.table_container
+{
+    overflow-x: auto;
+}
+
+.table_caption-dark_mode
+{
+    color: white;
+}

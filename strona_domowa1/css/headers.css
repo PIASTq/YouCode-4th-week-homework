@@ -1,0 +1,13 @@
+.header
+{
+    color: rgb(3, 3, 182);
+    text-shadow: 2px 2px 3px rgb(247, 247, 27);
+    margin: 10px;
+}
+
+.header-dark_mode,
+.header2-dark_mode
+{
+    color: white;
+    text-shadow: 2px 2px 3px rgb(187, 159, 159);
+}

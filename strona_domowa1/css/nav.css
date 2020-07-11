@@ -1,0 +1,16 @@
+.nav__list
+{
+    list-style-type: none;
+}
+
+.nav__list-item-link
+{
+    color: crimson;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.nav__list-item-link:hover
+{
+    color: rgba(220, 20, 60, 0.801);
+}

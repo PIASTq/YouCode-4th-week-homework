@@ -1,0 +1,11 @@
+.container
+{
+    max-width: 1000px;
+    margin: auto;
+    background-color: #eee;
+}
+
+.container-dark_mode
+{
+    background: rgb(36, 35, 35);
+}

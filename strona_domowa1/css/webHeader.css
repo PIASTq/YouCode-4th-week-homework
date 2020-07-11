@@ -1,0 +1,12 @@
+.webHeader__header
+{
+    text-align: center;
+    margin: auto;
+    text-shadow: 3px 3px 10px rgb(44, 42, 42);
+}
+
+.webHeader__header-dark_mode
+{
+    color: white;
+    text-shadow: 3px 3px 10px rgb(224, 213, 213);
+}
